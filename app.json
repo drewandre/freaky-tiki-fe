@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "freaky_tiki",
+    "slug": "freaky_tiki",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
