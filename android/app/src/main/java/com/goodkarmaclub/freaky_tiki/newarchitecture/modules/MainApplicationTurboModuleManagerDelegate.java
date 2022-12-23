@@ -1,4 +1,4 @@
-package com.freakytiki.newarchitecture.modules;
+package com.goodkarmaclub.freaky_tiki.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

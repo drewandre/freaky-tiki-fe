@@ -1,4 +1,4 @@
-package com.freakytiki;
+package com.goodkarmaclub.freaky_tiki;
 
 import android.os.Build;
 import android.os.Bundle;

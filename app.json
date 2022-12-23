@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.goodkarmaclub.freaky_tiki"
+    },
+    "ios": {
+      "bundleIdentifier": "com.freaky-tiki"
+    }
   }
 }

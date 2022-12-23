@@ -1,4 +1,4 @@
-package com.freakytiki.newarchitecture.components;
+package com.goodkarmaclub.freaky_tiki.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

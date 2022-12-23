@@ -1,4 +1,4 @@
-package com.freakytiki.newarchitecture;
+package com.goodkarmaclub.freaky_tiki.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.freakytiki.BuildConfig;
-import com.freakytiki.newarchitecture.components.MainComponentsRegistry;
-import com.freakytiki.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.goodkarmaclub.freaky_tiki.BuildConfig;
+import com.goodkarmaclub.freaky_tiki.newarchitecture.components.MainComponentsRegistry;
+import com.goodkarmaclub.freaky_tiki.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
